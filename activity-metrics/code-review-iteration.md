@@ -1,7 +1,7 @@
 # Code Review Iteration
 
 ## 1. Description
-What is the number of iterations that occur before a merge request is accepted or declined? 
+What is the number of iterations (number of closings/reopenings until accepted merge) that occur before a merge request is either accepted (merged) or declined (closed without being merged, and no further reopenings)? 
 
 ## 2. Use Cases
 Provide examples of how the metric might inform different stakeholders through use cases.
